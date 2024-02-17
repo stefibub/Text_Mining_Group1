@@ -1,0 +1,255 @@
+{
+    "1": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Just had the most amazing coffee at Cafe Bliss! ☕️ Starting my day off right!",
+        "tweet_url": "https://twitter.com/example/status/0000000000001"
+    },
+    "2": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Finally finished my marathon, and I beat my personal best! Could not be happier! 🏃‍♂️🎉",
+        "tweet_url": "https://twitter.com/example/status/0000000000002"
+    },
+    "3": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Huge shoutout to the team for pulling off an incredible project under tight deadlines. #TeamworkMakesTheDreamWork",
+        "tweet_url": "https://twitter.com/example/status/0000000000003"
+    },
+    "4": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "The sunset today was breathtaking, nature is truly an incredible artist. 🌅",
+        "tweet_url": "https://twitter.com/example/status/0000000000004"
+    },
+    "5": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Our garden's first tomatoes of the season! There's nothing like homegrown food. 🍅😊",
+        "tweet_url": "https://twitter.com/example/status/0000000000005"
+    },
+    "6": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Overwhelmed with gratitude for the surprise birthday party. Feeling loved and blessed. 🎉🎂",
+        "tweet_url": "https://twitter.com/example/status/0000000000006"
+    },
+    "7": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Passed my certification exam on the first try! All the hard work paid off. 📚✅",
+        "tweet_url": "https://twitter.com/example/status/0000000000007"
+    },
+    "8": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Saw a random act of kindness today that restored my faith in humanity. 💖",
+        "tweet_url": "https://twitter.com/example/status/0000000000008"
+    },
+    "9": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Nothing beats a cozy evening with family, good food, and laughter. #Blessed",
+        "tweet_url": "https://twitter.com/example/status/0000000000009"
+    },
+    "10": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Thrilled to announce I've been accepted into my dream program. Here's to new beginnings! 🍾🎓",
+        "tweet_url": "https://twitter.com/example/status/0000000000010"
+    },
+    "11": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "To everyone who supported my small business in its first year, thank you from the bottom of my heart. 🙏🛍️",
+        "tweet_url": "https://twitter.com/example/status/0000000000011"
+    },
+    "12": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Woke up to the news that my article has been published. Feeling incredibly proud and excited! 📰🎉",
+        "tweet_url": "https://twitter.com/example/status/0000000000012"
+    },
+    "13": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "After years of saving, we finally booked our dream vacation. Can't wait for the adventures that await! ✈️🌍",
+        "tweet_url": "https://twitter.com/example/status/0000000000013"
+    },
+    "14": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Adopted the cutest puppy today. Our family just got a little bigger and a lot happier! 🐶❤️",
+        "tweet_url": "https://twitter.com/example/status/0000000000014"
+    },
+    "15": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Successfully ran my first workshop today. The feedback was incredibly positive, and I'm so motivated to do more! 🎤👏",
+        "tweet_url": "https://twitter.com/example/status/0000000000015"
+    },
+    "16": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Waited over an hour for food that arrived cold. Absolutely unacceptable service at this restaurant.",
+        "tweet_url": "https://twitter.com/example/status/0000000000016"
+    },
+    "17": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Can't believe my flight got canceled at the last minute. Ruined my entire vacation plans. #worstday",
+        "tweet_url": "https://twitter.com/example/status/0000000000017"
+    },
+    "18": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "The customer support was utterly useless. They kept transferring my call without solving my issue. #frustrated",
+        "tweet_url": "https://twitter.com/example/status/0000000000018"
+    },
+    "19": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "This new update has made the app practically unusable. It keeps crashing every few minutes.",
+        "tweet_url": "https://twitter.com/example/status/0000000000019"
+    },
+    "20": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Feeling heartbroken over the news today. It's hard to find any hope in such tragedy.",
+        "tweet_url": "https://twitter.com/example/status/0000000000020"
+    },
+    "21": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "The sequel to my favorite movie was a massive disappointment. It lacked the original's charm and depth.",
+        "tweet_url": "https://twitter.com/example/status/0000000000021"
+    },
+    "22": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Another sleepless night thanks to the construction noise outside. This is becoming unbearable. #tired",
+        "tweet_url": "https://twitter.com/example/status/0000000000022"
+    },
+    "23": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Lost my wallet today with all my cards and ID. Feeling so stressed and helpless right now.",
+        "tweet_url": "https://twitter.com/example/status/0000000000023"
+    },
+    "24": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "The repair costs for my car are through the roof. Worst timing ever.",
+        "tweet_url": "https://twitter.com/example/status/0000000000024"
+    },
+    "25": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Just found out my favorite band canceled their tour. Months of anticipation gone to waste.",
+        "tweet_url": "https://twitter.com/example/status/0000000000025"
+    },
+    "26": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Dealing with insurance has been a nightmare. They find every excuse not to cover my claims.",
+        "tweet_url": "https://twitter.com/example/status/0000000000026"
+    },
+    "27": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "My package was lost in transit, and now I have to go through a lengthy process to get a refund. #frustration",
+        "tweet_url": "https://twitter.com/example/status/0000000000027"
+    },
+    "28": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "The hotel room looks nothing like the photos online. Completely misleading and overpriced.",
+        "tweet_url": "https://twitter.com/example/status/0000000000028"
+    },
+    "29": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Feeling let down by people I thought I could trust. It's hard to know who your real friends are.",
+        "tweet_url": "https://twitter.com/example/status/0000000000029"
+    },
+    "30": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "The new policy changes at work are making everyone's job more difficult. Morale is at an all-time low.",
+        "tweet_url": "https://twitter.com/example/status/0000000000030"
+    },   
+    "31": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "The city council announced a new recycling program starting next month.",
+        "tweet_url": "https://twitter.com/example/status/0000000000031"
+    },
+    "32": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Reminder: Daylight Saving Time begins this weekend. Don't forget to set your clocks forward.",
+        "tweet_url": "https://twitter.com/example/status/0000000000032"
+    },
+    "33": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Currently reading 'The History of Ancient Civilizations'. It's quite an informative book.",
+        "tweet_url": "https://twitter.com/example/status/0000000000033"
+    },
+    "34": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "The weather forecast predicts rain for the next three days.",
+        "tweet_url": "https://twitter.com/example/status/0000000000034"
+    },
+    "35": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "The latest smartphone model features a longer battery life and improved camera resolution.",
+        "tweet_url": "https://twitter.com/example/status/0000000000035"
+    },
+    "36": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "A new coffee shop opened on Main Street. They serve espresso, pastries, and sandwiches.",
+        "tweet_url": "https://twitter.com/example/status/0000000000036"
+    },
+    "37": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Traffic updates: The bridge on 5th avenue will be closed for maintenance next week.",
+        "tweet_url": "https://twitter.com/example/status/0000000000037"
+    },
+    "38": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Interesting fact: Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3000 years old.",
+        "tweet_url": "https://twitter.com/example/status/0000000000038"
+    },
+    "39": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Looking for book recommendations. Preferably non-fiction and historical genres.",
+        "tweet_url": "https://twitter.com/example/status/0000000000039"
+    },
+    "40": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "The local library is hosting a free coding workshop next Saturday for beginners.",
+        "tweet_url": "https://twitter.com/example/status/0000000000040"
+    },
+    "41": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Scientists have discovered a new species of frog in the Amazon rainforest.",
+        "tweet_url": "https://twitter.com/example/status/0000000000041"
+    },
+    "42": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Today marks the 50th anniversary of the moon landing. A monumental moment in history.",
+        "tweet_url": "https://twitter.com/example/status/0000000000042"
+    },
+    "43": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "A reminder that the office will be closed next Monday in observance of the holiday.",
+        "tweet_url": "https://twitter.com/example/status/0000000000043"
+    },
+    "44": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "The annual community yard sale is scheduled for next weekend. Time to declutter!",
+        "tweet_url": "https://twitter.com/example/status/0000000000044"
+    },
+    "45": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "NASA's latest Mars rover has successfully landed on the red planet. Awaiting first images.",
+        "tweet_url": "https://twitter.com/example/status/0000000000045"
+    },
+    "46": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Just got back from the most relaxing beach vacation ever. The sunsets were out of this world! 🌅",
+        "tweet_url": "https://twitter.com/example/status/0000000000046"
+    },
+    "47": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Thrilled to announce I've been promoted to manager! Hard work really does pay off. 🎉",
+        "tweet_url": "https://twitter.com/example/status/0000000000047"
+    },
+    "48": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "The museum will be open late this Friday for a special exhibit viewing. Everyone's welcome!",
+        "tweet_url": "https://twitter.com/example/status/0000000000048"
+    },
+    "49": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Interesting fact: The shortest war in history lasted only 38 minutes between Britain and Zanzibar on August 27, 1896.",
+        "tweet_url": "https://twitter.com/example/status/0000000000049"
+    },
+    "50": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Extremely disappointed with my new laptop. It's slower than my old one and keeps freezing. 😞",
+        "tweet_url": "https://twitter.com/example/status/0000000000050"
+    }
+}    
+    
+    
+    
